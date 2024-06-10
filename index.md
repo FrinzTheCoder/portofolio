@@ -10,8 +10,12 @@ I am a Computer Science student at Universitas Indonesia. I love many topics in 
 - Physics Tutor at MOSCOPIC
 
 ## Projects
-- Talacare A1<br>
-- FrinzCatalog<br>
+- <b>Talacare A1</b> (https://a1-talacare.itch.io/talacare)<br>
+Talacare A1 is an educational game specifically designed for preschool children with thalassemia. The main goal of this game is to help children suffering from thalassemia adapt more easily to their condition, as well as understand the importance of undergoing regular treatment.
+- <b>FrinzCatalog</b> (https://frinzcatalog.falensiazmi.net)<br>
+A personal website for storing photos of objects that I have found under microscope.
+- <b>Overpowered Fruits</b> (https://www.curseforge.com/minecraft/mc-mods/overpowered-fruits)<br>
+A mod for Minecraft Java Version (1.19.3). The mod has been published on CurseForge (a website for publishing mod/add-ons for games) and have more than 100 downloads.
 
 ## Awards
 - Bronze medalist of KSN Fisika 2020
